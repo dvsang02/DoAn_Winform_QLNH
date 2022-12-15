@@ -1,0 +1,55 @@
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\bin\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\bin\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\bin\Debug\DAO.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\bin\Debug\DAO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\obj\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\BUS\obj\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\DAO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\DAO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\DAO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\DAO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.pdb

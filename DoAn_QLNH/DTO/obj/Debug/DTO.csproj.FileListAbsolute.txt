@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DTO\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DTO\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\DTO\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\DTO\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.pdb

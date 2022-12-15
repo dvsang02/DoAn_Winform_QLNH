@@ -1,0 +1,450 @@
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLiNhaHang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLiBanAn.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLiThucDon.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmChuyenBan.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLiNhanSu.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDoanhThu.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmThongKe.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmInHoaDon.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLienHe.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLiNhaHang.csprojAssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.frmChuyenBan.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.frmDoanhThu.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.frmMain.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.frmQuanLiBanAn.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.frmQuanLiNhanSu.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.frmThongKe.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.frmQuanLiThucDon.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DoAn_Winform.exe.config
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DoAn_Winform.exe
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DoAn_Winform.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.Properties.Resources.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.exe
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DoAn_Winform.exe.config
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DoAn_Winform.exe.config
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DoAn_Winform.exe
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DoAn_Winform.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DAO.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\EnvDTE.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\stdole.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\DAO.pdb
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csprojAssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.exe.config
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmChuyenBan.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmDoanhThu.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmMain.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmQuanLiBanAn.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmQuanLiNhanSu.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmThongKe.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.Properties.Resources.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmQuanLiThucDon.resources
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.exe
+C:\Users\Sang\Desktop\WorkSpace\.Net Winform\nhahang\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DoAn_Winform.exe.config
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DoAn_Winform.exe
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DoAn_Winform.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DAO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\EnvDTE.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\stdole.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\DAO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csprojAssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.exe.config
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmChuyenBan.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmDoanhThu.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmMain.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmQuanLiBanAn.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmQuanLiNhanSu.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmThongKe.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.Properties.Resources.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmQuanLiThucDon.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.exe
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\DoAn_Winform.exe.config
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\DoAn_Winform.exe
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\DoAn_Winform.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\BUS.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\DTO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\DAO.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\EnvDTE.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\stdole.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\BUS.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\DTO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\DAO.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csproj.AssemblyReference.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmChuyenBan.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmDoanhThu.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmMain.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmQuanLiBanAn.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmQuanLiNhanSu.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmThongKe.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.Properties.Resources.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.frmQuanLiThucDon.resources
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.exe
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\DoAn_Winform.pdb
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Sang\Desktop\WorkSpace\Git\DoAn_Winform_QLNH\DoAn_QLNH\DoAn_Winform\obj\Debug\QuanLiNhaHang.csprojFakesResolveAssemblyReference.cache
