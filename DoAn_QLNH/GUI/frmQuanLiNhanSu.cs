@@ -25,6 +25,9 @@ namespace DoAn_Winform
         private void frmQuanLiNhanSu_Load(object sender, EventArgs e)
         {
             LoadNhanVien();
+            LoadTaiKhoan();
+            LoadCbbTenNV();
+            LoadCbbQuyen();
         }
 
         List<NhanVien_DTO> danhSachNhanVien;
@@ -258,6 +261,171 @@ namespace DoAn_Winform
             if (ketQua == null)
                 return;
             dgvDanhSachNhanVien.DataSource = ketQua;
+        }
+
+
+        //========================QUAN LY TAI KHOAN============================
+
+        List<TaiKhoanNV_DTO> taiKhoans;
+        private void LoadTaiKhoan()
+        {
+            taiKhoans = TaiKhoan_BUS.LoadTaiKhoan();
+            dgvTaiKhoan.DataSource = taiKhoans;
+
+            if (taiKhoans == null)
+                return;
+
+            dgvTaiKhoan.Columns["SMaTK"].HeaderText = "ID";
+            dgvTaiKhoan.Columns["TenNhanVien1"].HeaderText = "Tên Nhân Viên";
+            dgvTaiKhoan.Columns["STaiKhoan"].HeaderText = "Tên Tài Khoản";
+            dgvTaiKhoan.Columns["SMatKhau"].HeaderText = "Mật Khẩu";
+            dgvTaiKhoan.Columns["FK_iMaQuyen1"].HeaderText = "Quyền";
+
+
+            dgvTaiKhoan.Columns["SMaTK"].Width = 50;
+            dgvTaiKhoan.Columns["TenNhanVien1"].Width = 200;
+            dgvTaiKhoan.Columns["STaiKhoan"].Width = 200;
+            dgvTaiKhoan.Columns["SMatKhau"].Width = 100;
+            dgvTaiKhoan.Columns["FK_iMaQuyen1"].Width = 90;
+        }
+
+        private void LoadCbbTenNV()
+        {
+            cbbTenNV.DataSource = TaiKhoan_BUS.CbbTenNV();
+            cbbTenNV.ValueMember = "ID"; //Trường giá trị
+            cbbTenNV.DisplayMember = "TenNhanVien"; //Trường hiển thị
+        }
+
+        private void LoadCbbQuyen()
+        {
+            cbbQuyen.DataSource = TaiKhoan_BUS.CbbQuyen();
+            cbbQuyen.ValueMember = "iMaQuyen"; //Trường giá trị
+            cbbQuyen.DisplayMember = "sTenQuyen"; //Trường hiển thị
+        }
+        
+        DataGridViewRow drTaiKhoan;
+        private void dgvTaiKhoan_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                drTaiKhoan = dgvTaiKhoan.SelectedRows[0];
+            }
+            catch (Exception)
+            {
+                return;
+            }
+
+            cbbTenNV.Text = drTaiKhoan.Cells["TenNhanVien1"].Value.ToString();
+            txtTenTK.Text = drTaiKhoan.Cells["STaiKhoan"].Value.ToString();
+            txtMatKhau.Text = drTaiKhoan.Cells["SMatKhau"].Value.ToString();
+            txtEmail.Text = drTaiKhoan.Cells["Email1"].Value.ToString();
+            cbbQuyen.Text = drTaiKhoan.Cells["FK_iMaQuyen1"].Value.ToString();
+
+        }
+
+        private void btnThemTK_Click(object sender, EventArgs e)
+        {
+            TaiKhoanNV_DTO taiKhoan = new TaiKhoanNV_DTO();
+            taiKhoan.STaiKhoan = txtTenTK.Text;
+            taiKhoan.SMatKhau = txtMatKhau.Text;
+            taiKhoan.Email1 = txtEmail.Text;
+            taiKhoan.FK_iMaQuyen1 = cbbQuyen.SelectedValue.ToString();
+            taiKhoan.TenNhanVien1 = cbbTenNV.SelectedValue.ToString();
+
+            if (txtTenTK.Text == "")
+            {
+                MessageBox.Show("Nhập tên tài khoản");
+                return;
+            }
+            if (txtMatKhau.Text == "")
+            {
+                MessageBox.Show("Nhập mật khẩu");
+                return;
+            }
+            if (txtEmail.Text == "")
+            {
+                MessageBox.Show("Nhập email");
+                return;
+            }
+            if (TaiKhoan_BUS.CheckTaiKhoanTrung(txtTenTK.Text).Count != 0) { MessageBox.Show("Tên tài khoản này đã được đăng ký, vui lòng đăng ký tên tài khoản khác!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
+            if (!TaiKhoan_BUS.checkEmail(txtEmail.Text)) { MessageBox.Show("Vui lòng nhập đúng định dạng email!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
+            if (TaiKhoan_BUS.CheckEmailTrung(txtEmail.Text).Count != 0) { MessageBox.Show("Email này đã được đăng ký, vui lòng đăng ký email khác!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
+
+            if (TaiKhoan_BUS.ThemTaiKhoan(taiKhoan))
+            {
+                LoadTaiKhoan();
+                MessageBox.Show("Thêm thành công");
+                return;
+            }
+            MessageBox.Show("Thêm thất bại");
+
+        }
+
+        private void btnCapNhatTK_Click(object sender, EventArgs e)
+        {
+            if (drTaiKhoan == null)
+            {
+                MessageBox.Show("Chọn nhân viên muốn cập nhật");
+                return;
+            }
+            if (TaiKhoan_BUS.CheckTaiKhoanTrung(txtTenTK.Text).Count != 0) { MessageBox.Show("Tên tài khoản này đã được đăng ký, vui lòng đăng ký tên tài khoản khác!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
+            if (!TaiKhoan_BUS.checkEmail(txtEmail.Text)) { MessageBox.Show("Vui lòng nhập đúng định dạng email!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
+            if (TaiKhoan_BUS.CheckEmailTrung(txtEmail.Text).Count != 0) { MessageBox.Show("Email này đã được đăng ký, vui lòng đăng ký email khác!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
+
+
+            TaiKhoanNV_DTO taiKhoan = new TaiKhoanNV_DTO();
+            taiKhoan.SMaTK = int.Parse(drTaiKhoan.Cells["sMaTK"].Value.ToString());
+            taiKhoan.STaiKhoan = txtTenTK.Text;
+            taiKhoan.SMatKhau = txtMatKhau.Text;
+            taiKhoan.Email1 = txtEmail.Text;
+            taiKhoan.FK_iMaQuyen1 = cbbQuyen.SelectedValue.ToString();
+            taiKhoan.TenNhanVien1 = cbbTenNV.SelectedValue.ToString();
+
+            if (TaiKhoan_BUS.SuaTaiKhoan(taiKhoan))
+            {
+
+                drTaiKhoan = null;
+                cbbTenNV.Text = "";
+                txtTenTK.Text = "";
+                txtMatKhau.Text = "";
+                txtEmail.Text = "";
+                cbbQuyen.Text = "";
+
+                LoadTaiKhoan();
+                MessageBox.Show("Sửa thành công");
+                return;
+            }
+            MessageBox.Show("Sửa thất bại");
+        }
+
+        private void btnXoaTK_Click(object sender, EventArgs e)
+        {
+            if (drTaiKhoan == null)
+            {
+                MessageBox.Show("Chọn nhân viên muốn cập nhật");
+                return;
+            }
+            TaiKhoanNV_DTO taiKhoan = new TaiKhoanNV_DTO();
+            taiKhoan.SMaTK = int.Parse(drTaiKhoan.Cells["sMaTK"].Value.ToString());
+
+            if (MessageBox.Show("Xác nhận xóa", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                if (taiKhoan == null)
+                    dgvTaiKhoan.DataSource = null;
+                if (TaiKhoan_BUS.XoaTaiKhoan(taiKhoan))
+                {
+                    drTaiKhoan = null;
+                    cbbTenNV.Text = "";
+                    txtTenTK.Text = "";
+                    txtMatKhau.Text = "";
+                    txtEmail.Text = "";
+                    cbbQuyen.Text = "";
+                    MessageBox.Show("Xóa thành công");
+                    LoadTaiKhoan();
+                    return;
+                }
+                MessageBox.Show("Xóa thất bại");
+            }
         }
     }
 }

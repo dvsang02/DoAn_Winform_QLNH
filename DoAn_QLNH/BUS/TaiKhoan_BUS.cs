@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
 
 namespace BUS
 {
@@ -48,6 +49,35 @@ namespace BUS
         public static string layMatKhau(string email)
         {
             return TaiKhoan_DAO.layMatKhau(email);
+        }
+
+        public static List<TaiKhoanNV_DTO> LoadTaiKhoan()
+        {
+            return TaiKhoan_DAO.LoadTaiKhoan();
+        }
+
+        public static DataTable CbbTenNV()
+        {
+            return TaiKhoan_DAO.CbbTenNV();
+        }
+
+        public static DataTable CbbQuyen()
+        {
+            return TaiKhoan_DAO.CbbQuyen();
+        }
+
+        public static bool ThemTaiKhoan(TaiKhoanNV_DTO taiKhoan)
+        {
+            return TaiKhoan_DAO.ThemTaiKhoan(taiKhoan);
+        }
+
+        public static bool SuaTaiKhoan(TaiKhoanNV_DTO taiKhoan)
+        {
+            return TaiKhoan_DAO.CapNhatTK(taiKhoan);
+        }
+        public static bool XoaTaiKhoan(TaiKhoanNV_DTO taiKhoan)
+        {
+            return TaiKhoan_DAO.XoaTaiKhoan(taiKhoan);
         }
     }
 }
