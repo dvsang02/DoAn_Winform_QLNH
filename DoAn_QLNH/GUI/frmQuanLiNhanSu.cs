@@ -368,10 +368,6 @@ namespace DoAn_Winform
                 MessageBox.Show("Chọn nhân viên muốn cập nhật");
                 return;
             }
-            if (TaiKhoan_BUS.CheckTaiKhoanTrung(txtTenTK.Text).Count != 0) { MessageBox.Show("Tên tài khoản này đã được đăng ký, vui lòng đăng ký tên tài khoản khác!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
-            if (!TaiKhoan_BUS.checkEmail(txtEmail.Text)) { MessageBox.Show("Vui lòng nhập đúng định dạng email!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
-            if (TaiKhoan_BUS.CheckEmailTrung(txtEmail.Text).Count != 0) { MessageBox.Show("Email này đã được đăng ký, vui lòng đăng ký email khác!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information); return; }
-
 
             TaiKhoanNV_DTO taiKhoan = new TaiKhoanNV_DTO();
             taiKhoan.SMaTK = int.Parse(drTaiKhoan.Cells["sMaTK"].Value.ToString());

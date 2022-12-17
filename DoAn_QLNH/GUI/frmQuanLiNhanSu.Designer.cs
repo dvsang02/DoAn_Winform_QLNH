@@ -112,7 +112,6 @@
             // tabControlPanel2
             // 
             this.tabControlPanel2.Controls.Add(this.tabControlPanel3);
-            this.tabControlPanel2.DisabledBackColor = System.Drawing.Color.Empty;
             this.tabControlPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControlPanel2.Location = new System.Drawing.Point(0, 26);
             this.tabControlPanel2.Name = "tabControlPanel2";
@@ -132,7 +131,6 @@
             // 
             this.tabControlPanel3.Controls.Add(this.dgvTaiKhoan);
             this.tabControlPanel3.Controls.Add(this.grpQLTK);
-            this.tabControlPanel3.DisabledBackColor = System.Drawing.Color.Empty;
             this.tabControlPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControlPanel3.Location = new System.Drawing.Point(1, 1);
             this.tabControlPanel3.Name = "tabControlPanel3";
@@ -203,7 +201,6 @@
             this.cbbQuyen.Location = new System.Drawing.Point(185, 206);
             this.cbbQuyen.Name = "cbbQuyen";
             this.cbbQuyen.Size = new System.Drawing.Size(220, 26);
-            this.cbbQuyen.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.cbbQuyen.TabIndex = 16;
             // 
             // cbbTenNV
@@ -216,7 +213,6 @@
             this.cbbTenNV.Location = new System.Drawing.Point(185, 47);
             this.cbbTenNV.Name = "cbbTenNV";
             this.cbbTenNV.Size = new System.Drawing.Size(220, 26);
-            this.cbbTenNV.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.cbbTenNV.TabIndex = 15;
             // 
             // btnCapNhatTK
@@ -227,7 +223,6 @@
             this.btnCapNhatTK.Location = new System.Drawing.Point(235, 253);
             this.btnCapNhatTK.Name = "btnCapNhatTK";
             this.btnCapNhatTK.Size = new System.Drawing.Size(103, 41);
-            this.btnCapNhatTK.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.btnCapNhatTK.TabIndex = 14;
             this.btnCapNhatTK.Text = "Cập nhật";
             this.btnCapNhatTK.Click += new System.EventHandler(this.btnCapNhatTK_Click);
@@ -240,7 +235,6 @@
             this.btnXoaTK.Location = new System.Drawing.Point(367, 253);
             this.btnXoaTK.Name = "btnXoaTK";
             this.btnXoaTK.Size = new System.Drawing.Size(103, 41);
-            this.btnXoaTK.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.btnXoaTK.TabIndex = 13;
             this.btnXoaTK.Text = "Xóa";
             this.btnXoaTK.Click += new System.EventHandler(this.btnXoaTK_Click);
@@ -253,7 +247,6 @@
             this.btnThemTK.Location = new System.Drawing.Point(99, 253);
             this.btnThemTK.Name = "btnThemTK";
             this.btnThemTK.Size = new System.Drawing.Size(103, 41);
-            this.btnThemTK.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.btnThemTK.TabIndex = 11;
             this.btnThemTK.Text = "Thêm";
             this.btnThemTK.Click += new System.EventHandler(this.btnThemTK_Click);
@@ -333,7 +326,6 @@
             this.tabControlPanel1.Controls.Add(this.groupBox3);
             this.tabControlPanel1.Controls.Add(this.groupBox1);
             this.tabControlPanel1.Controls.Add(this.dgvDanhSachNhanVien);
-            this.tabControlPanel1.DisabledBackColor = System.Drawing.Color.Empty;
             this.tabControlPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControlPanel1.Location = new System.Drawing.Point(0, 26);
             this.tabControlPanel1.Name = "tabControlPanel1";
