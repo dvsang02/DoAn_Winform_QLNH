@@ -204,5 +204,20 @@ namespace DAO
                 return false;
             }
         }
+
+        public static bool CheckQuyen(string tenTaiKhoan)
+        {
+            string chuoiTruyVan = string.Format("select sTenQuyen from TaiKhoan, Quyen where TaiKhoan.FK_iMaQuyen = Quyen.iMaQuyen and sTaiKhoan = '{0}'", tenTaiKhoan);
+            conn = DataProvider.MoKetNoi();
+            string quyen = DataProvider.ThucThiTruyVanScalar(chuoiTruyVan, conn);
+            if (quyen == "Quản Lý")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }

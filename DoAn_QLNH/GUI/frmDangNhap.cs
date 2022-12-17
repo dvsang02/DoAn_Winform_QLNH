@@ -32,10 +32,21 @@ namespace GUI
                 if(TaiKhoan_BUS.GetTaiKhoan(tentk, matkhau).Count != 0)
                 {
                     MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    this.Hide();
-                    frmMain frmMain = new frmMain();
-                    frmMain.ShowDialog();
-                    this.Close();
+                    if(TaiKhoan_BUS.CheckQuyen(tentk))
+                    {
+                        this.Hide();
+                        frmMain frmMain = new frmMain();
+                        frmMain.ShowDialog();
+                        this.Close();
+                    }
+                    else
+                    {
+                        this.Hide();
+                        frmQuanLiBanAn frmQuanLiBanAn = new frmQuanLiBanAn();
+                        frmQuanLiBanAn.ShowDialog();
+                        this.Close();
+                    }
+
                 }
                 else
                 {

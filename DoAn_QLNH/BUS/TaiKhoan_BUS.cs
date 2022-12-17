@@ -79,5 +79,9 @@ namespace BUS
         {
             return TaiKhoan_DAO.XoaTaiKhoan(taiKhoan);
         }
+        public static bool CheckQuyen(string tenTaiKhoan)
+        {
+            return TaiKhoan_DAO.CheckQuyen(tenTaiKhoan);
+        }
     }
 }

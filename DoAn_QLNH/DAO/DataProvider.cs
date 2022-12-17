@@ -59,18 +59,11 @@ namespace DAO
             }
         }
 
-        public static bool ThucThiTruyVanScalar(string chuoiTruyVan, SqlConnection conn)
+        public static string ThucThiTruyVanScalar(string chuoiTruyVan, SqlConnection conn)
         {
-            try
-            {
-                SqlCommand cm = new SqlCommand(chuoiTruyVan, conn);
-                cm.ExecuteScalar();
-                return true;
-            }
-            catch (Exception)
-            {
-                return false;
-            }
+            SqlCommand cm = new SqlCommand(chuoiTruyVan, conn);
+            string giaTri = Convert.ToString(cm.ExecuteScalar());
+            return giaTri;
         }
 
         public static SqlDataReader ThucThiTruyVanReader(string chuoiTruyVan, SqlConnection conn)
