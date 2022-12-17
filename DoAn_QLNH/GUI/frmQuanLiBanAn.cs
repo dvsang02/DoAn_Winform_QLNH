@@ -11,6 +11,7 @@ using System.Data.SqlClient;
 using System.Globalization;
 using DTO;
 using BUS;
+using GUI;
 
 namespace DoAn_Winform
 {
@@ -543,5 +544,27 @@ namespace DoAn_Winform
         public static string maHoaDon;          // các biến sẽ truyền vào reportviewer
         public static long thanhTien;         // các biến sẽ truyền vào reportviewer
 
+        private void btnInHoaDon_Click(object sender, EventArgs e)
+        {
+            if (indexTable == -1)
+            {
+                MessageBox.Show("Chọn bàn muốn in");
+                return;
+            }
+            if (lstBanAn.Items[indexTable].ImageIndex == 1)
+            {
+                MessageBox.Show("Mở bàn để in hóa đơn");
+                return;
+            }
+            id = danhSachBanAn[indexTable].ID;
+            tenBan = danhSachBanAn[indexTable].TenBan;
+            maHoaDon = (HoaDon_BUS.layIDHoaDon(danhSachBanAn[indexTable].ID)).ToString();
+            tongTien = long.Parse(txtTongCong.Text);
+            khuyenMai = long.Parse(txtTongCong.Text) - long.Parse(txtThanhTien.Text);
+            thanhTien = long.Parse(txtThanhTien.Text);
+
+            frmInHoaDon inHoaDon = new frmInHoaDon();
+            inHoaDon.ShowDialog();
+        }
     }
 }

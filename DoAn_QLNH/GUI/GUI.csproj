@@ -76,8 +76,13 @@
     <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
     </Reference>
-    <Reference Include="System" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll</HintPath>
+    </Reference>
     <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -87,8 +92,14 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dsHoaDon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsHoaDon.xsd</DependentUpon>
+    </Compile>
     <Compile Include="frmChuyenBan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,6 +123,12 @@
     </Compile>
     <Compile Include="frmDoanhThu.Designer.cs">
       <DependentUpon>frmDoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInHoaDon.Designer.cs">
+      <DependentUpon>frmInHoaDon.cs</DependentUpon>
     </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
@@ -164,6 +181,9 @@
     <EmbeddedResource Include="frmDoanhThu.resx">
       <DependentUpon>frmDoanhThu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmInHoaDon.resx">
+      <DependentUpon>frmInHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
@@ -192,7 +212,22 @@
     <EmbeddedResource Include="frmQuanLiThucDon.resx">
       <DependentUpon>frmQuanLiThucDon.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="rpHoaDon.rdlc" />
+    <None Include="dsHoaDon.xsc">
+      <DependentUpon>dsHoaDon.xsd</DependentUpon>
+    </None>
+    <None Include="dsHoaDon.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsHoaDon.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsHoaDon.xss">
+      <DependentUpon>dsHoaDon.xsd</DependentUpon>
+    </None>
     <None Include="packages.config" />
+    <None Include="Properties\DataSources\GUI.dsHoaDonTableAdapters.DataTable1TableAdapter.datasource" />
+    <None Include="Properties\DataSources\GUI.dsHoaDonTableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\DataSources\GUI.dsHoaDonTableAdapters.TableAdapterManager.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

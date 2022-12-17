@@ -186,6 +186,7 @@ C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\DoAn_Winfor
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\GUI.frmDangKy.resources
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\GUI.frmDangNhap.resources
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\DoAn_Winform.frmDoanhThu.resources
+C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\GUI.frmInHoaDon.resources
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\DoAn_Winform.frmMain.resources
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\DoAn_Winform.frmQuanLiBanAn.resources
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\DoAn_Winform.frmQuanLiNhanSu.resources
@@ -198,3 +199,5 @@ C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\GUI.csproj.
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\GUI.csproj.CopyComplete
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\GUI.exe
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\GUI.pdb
+C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\GUI\obj\Debug\RdlCompile.compiled

@@ -33,5 +33,16 @@ namespace GUI.Properties {
                 return ((string)(this["QUANLINHAHANGConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-GK5IG02\\SQLEXPRESS01;Initial Catalog=QUANLINHAHANG;Integrated" +
+            " Security=True")]
+        public string QUANLINHAHANGConnectionString1 {
+            get {
+                return ((string)(this["QUANLINHAHANGConnectionString1"]));
+            }
+        }
     }
 }

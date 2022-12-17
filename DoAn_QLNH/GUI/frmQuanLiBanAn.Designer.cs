@@ -146,7 +146,7 @@
             this.tabControlPanel1.Controls.Add(this.btnThanhToan);
             this.tabControlPanel1.Controls.Add(this.btnThem1);
             this.tabControlPanel1.Controls.Add(this.btnGiam1);
-            //this.tabControlPanel1.DisabledBackColor = System.Drawing.Color.Empty;
+            this.tabControlPanel1.DisabledBackColor = System.Drawing.Color.Empty;
             this.tabControlPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControlPanel1.Location = new System.Drawing.Point(0, 26);
             this.tabControlPanel1.Name = "tabControlPanel1";
@@ -177,6 +177,7 @@
             this.btnInHoaDon.TabIndex = 145;
             this.btnInHoaDon.Text = "             In Hóa Đơn";
             this.btnInHoaDon.UseVisualStyleBackColor = false;
+            this.btnInHoaDon.Click += new System.EventHandler(this.btnInHoaDon_Click);
             // 
             // lbTime
             // 
@@ -235,6 +236,7 @@
             this.columnHeader4});
             this.lstHoaDon.FullRowSelect = true;
             this.lstHoaDon.GridLines = true;
+            this.lstHoaDon.HideSelection = false;
             this.lstHoaDon.Location = new System.Drawing.Point(414, 120);
             this.lstHoaDon.Name = "lstHoaDon";
             this.lstHoaDon.Size = new System.Drawing.Size(373, 358);
@@ -326,6 +328,7 @@
             // 
             this.lstBanAn.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lstBanAn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.lstBanAn.HideSelection = false;
             this.lstBanAn.LargeImageList = this.imgBan;
             this.lstBanAn.Location = new System.Drawing.Point(11, 120);
             this.lstBanAn.Margin = new System.Windows.Forms.Padding(2);
