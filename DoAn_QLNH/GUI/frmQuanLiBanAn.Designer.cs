@@ -146,7 +146,6 @@
             this.tabControlPanel1.Controls.Add(this.btnThanhToan);
             this.tabControlPanel1.Controls.Add(this.btnThem1);
             this.tabControlPanel1.Controls.Add(this.btnGiam1);
-            this.tabControlPanel1.DisabledBackColor = System.Drawing.Color.Empty;
             this.tabControlPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControlPanel1.Location = new System.Drawing.Point(0, 26);
             this.tabControlPanel1.Name = "tabControlPanel1";

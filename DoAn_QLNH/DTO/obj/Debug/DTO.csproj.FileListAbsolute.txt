@@ -27,3 +27,4 @@ C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\DTO\bin\Debug\DTO.pdb
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.dll
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.pdb
+C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
