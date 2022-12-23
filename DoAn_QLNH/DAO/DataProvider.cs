@@ -18,7 +18,7 @@ namespace DAO
     {
         public static SqlConnection MoKetNoi()
         {
-            string chuoiKetNoi = @"Data Source=DESKTOP-GK5IG02\SQLEXPRESS01;Initial Catalog=QUANLINHAHANG;Integrated Security=True";
+            string chuoiKetNoi = @"Data Source=DESKTOP-G62VJ6G\SQLEXPRESS;Initial Catalog=QUANLINHAHANG;Integrated Security=True";
             SqlConnection conn = new SqlConnection(chuoiKetNoi);
             conn.Open();
             return conn;

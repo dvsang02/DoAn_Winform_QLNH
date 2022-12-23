@@ -43,3 +43,12 @@ C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\DAO\obj\Debug\DAO.csproj.
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\DAO\obj\Debug\DAO.csproj.CopyComplete
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\DAO\obj\Debug\DAO.dll
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\DAO\obj\Debug\DAO.pdb
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\DAO\bin\Debug\DAO.dll
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\DAO\bin\Debug\DAO.pdb
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\DAO\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\DAO\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\DAO\obj\Debug\DAO.dll
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\DAO\obj\Debug\DAO.pdb
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache

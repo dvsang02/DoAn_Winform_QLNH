@@ -64,3 +64,14 @@ C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.dll
 C:\Users\Sang\Desktop\AAAA\DoAn_Winform_QLNH\DoAn_QLNH\BUS\obj\Debug\BUS.pdb
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\bin\Debug\BUS.dll
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\bin\Debug\BUS.pdb
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\bin\Debug\DAO.dll
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\bin\Debug\DAO.pdb
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\obj\Debug\BUS.dll
+C:\Users\Nam\Desktop\DoAn_Winform_QLNH-main\DoAn_QLNH\BUS\obj\Debug\BUS.pdb

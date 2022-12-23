@@ -87,11 +87,13 @@ namespace DAO
         public static bool XoaNhanVien(NhanVien_DTO nhanVien)
         {
             // chuỗi truy vấn xóa món ăn
-            string chuoiTruyVan = string.Format("Delete from NhanVien Where MaNhanVien = N'{0}'",nhanVien.MaNhanVien);
+            string chuoiTruyVan = string.Format("Delete from TaiKhoan Where IDNhanVien = '{0}'", nhanVien.ID);
+            string chuoiTruyVan1 = string.Format("Delete from NhanVien Where MaNhanVien = '{0}'", nhanVien.MaNhanVien);
             conn = DataProvider.MoKetNoi();
             try
             {
                 DataProvider.ThucThiTruyVanNonQuery(chuoiTruyVan, conn);
+                DataProvider.ThucThiTruyVanNonQuery(chuoiTruyVan1, conn);
                 DataProvider.DongKetNoi(conn);
                 return true;
             }

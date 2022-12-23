@@ -119,6 +119,7 @@ namespace DoAn_Winform
             {
                 LoadNhanVien();
                 MessageBox.Show("Thêm thành công");
+                LoadCbbTenNV();
                 return;
             }
             MessageBox.Show("Thêm thất bại");
@@ -204,11 +205,11 @@ namespace DoAn_Winform
                 
                 LoadNhanVien();
                 MessageBox.Show("Sửa thành công");
+                LoadCbbTenNV();
                 return;
             }
             MessageBox.Show("Sửa thất bại");
         }
-
 
         //------------------ xóa nhân viên ----------------------------
         private void btnXoa_Click(object sender, EventArgs e)
@@ -221,6 +222,7 @@ namespace DoAn_Winform
 
             NhanVien_DTO nhanVien = new NhanVien_DTO();
             nhanVien.MaNhanVien = txtMaNhanVien.Text;
+            nhanVien.ID = int.Parse(drNhanVien.Cells["ID"].Value.ToString());
 
             if (MessageBox.Show("Xác nhận xóa","Thông báo",MessageBoxButtons.YesNo,MessageBoxIcon.Warning) == DialogResult.Yes)
             {
@@ -237,6 +239,7 @@ namespace DoAn_Winform
                     rtxtDiaChi.Text = "";
                     MessageBox.Show("Xóa thành công");
                     LoadNhanVien();
+                    LoadCbbTenNV();
                     return;
                 } 
                 MessageBox.Show("Xóa thất bại");
